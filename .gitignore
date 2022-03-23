@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Example Repo for Vue CLI Mod Fed demo
+module-federation-examples-vue-cli
